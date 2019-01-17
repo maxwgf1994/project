@@ -13,8 +13,8 @@
 
 
 <!--css start-->
-<link href="/css/global_site_simple.css" rel="stylesheet" type="text/css"/>
- <link href="/css/cart_main.css" rel="stylesheet" type="text/css"/>
+<link href="css/global_site_simple.css" rel="stylesheet" type="text/css"/>
+ <link href="css/cart_main.css" rel="stylesheet" type="text/css"/>
 <!--css end-->
 
 <!--js start-->
